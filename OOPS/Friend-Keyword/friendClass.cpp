@@ -1,6 +1,6 @@
-In C++, a friend class is a class that is allowed to access the private and protected members of another class.
+// In C++, a friend class is a class that is allowed to access the private and protected members of another class.
 
-Normally, private members cannot be accessed outside the class, but when a class is declared as a friend, it gets special permission.
+// Normally, private members cannot be accessed outside the class, but when a class is declared as a friend, it gets special permission.
 
 
 #include <iostream>
