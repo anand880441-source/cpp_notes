@@ -1,5 +1,5 @@
 
-Members declared as public can be accessed from anywhere.
+// Members declared as public can be accessed from anywhere.
 
 #include <iostream>
 using namespace std;
